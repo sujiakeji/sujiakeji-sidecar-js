@@ -1,0 +1,12 @@
+build/
+log/
+node_modules/
+.idea/
+.settings/
+.vscode/
+.DS_Store
+.project
+*.iml
+*.ipr
+*.iws
+*.log
